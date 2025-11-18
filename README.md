@@ -1,3 +1,4 @@
+------------------------------------------------------------------
 # Offline HTML Downloader
 
 Downloads Google Fonts and external images to make HTML files work offline.
@@ -27,5 +28,4 @@ $ python offline_downloader.py
 Enter folder path: /path/to/website
 Process these? (y/n): y
 ```
-
-Done! Your site is now offline-ready.
+----------------------------------------------------------------
